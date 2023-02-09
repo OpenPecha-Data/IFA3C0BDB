@@ -1,0 +1,16 @@
+id: IFA3C0BDB
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:23:43.796058
+last_modified: 2023-02-10 00:23:43.796183
+source_metadata:
+  title: 'Asaṅga/Maitreya: Ratnagotravibhāga'
+  language: bo
+bases:
+  E540:
+    base_file: E540.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
